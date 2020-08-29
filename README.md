@@ -10,7 +10,7 @@ Project Deliverables
 
 ● Eureka token contract implementation
 
- WorkFlow Diagram
+ WorkFlow
 1. An author submits their manuscript in the Eureka platform (paying with EKA)
 2. Once the Ethereum node triggers a new event in the Smart Contract (a new
 submission), it informs the adequate set of reviewers.
