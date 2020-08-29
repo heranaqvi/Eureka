@@ -6,10 +6,8 @@ Out casting, sharing, and publishing the collected knowledge, experiences, and o
 
 Project Deliverables
 ● A simple system that integrates the Ethereum Network with a minimal front-end application, and a back-end consisting of a server managing the database.
+
 ● Eureka token contract implementation
-
-
- System Architecture
 
  WorkFlow Diagram
 1. An author submits their manuscript in the Eureka platform (paying with EKA)
@@ -30,19 +28,12 @@ Eureka’s Token-based Rewards
 DApp
 In order to build our dApp, we needed a few dependencies first.
 ● Node Package Manager (NPM)
+
 ● Truffle Framework
 This allows us to build decentralized applications on the Ethereum blockchain. It also enables us to test our smart contracts and deploy them to the blockchain. It also gives us a place to develop our client-side application.
+
 ● Ganache
 This is a local in-memory blockchain that ​gives us 10 external accounts with addresses on our local Ethereum blockchain.
+
 ● Metamask
 This is a special browser extension in order to use the Ethereum block chain.
-Eureka SC Contract Deployment
-
-
-Initial_Migration.js
-Deploy_contracts.js
-Smart Contract Deployment
-Ganache After Deployment
-
-
- Front End
